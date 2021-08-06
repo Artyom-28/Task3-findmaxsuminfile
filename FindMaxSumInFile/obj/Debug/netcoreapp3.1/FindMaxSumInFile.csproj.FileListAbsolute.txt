@@ -1,0 +1,13 @@
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.csprojAssemblyReference.cache
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.AssemblyInfoInputs.cache
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.AssemblyInfo.cs
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.csproj.CoreCompileInputs.cache
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\bin\Debug\netcoreapp3.1\FindMaxSumInFile.exe
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\bin\Debug\netcoreapp3.1\FindMaxSumInFile.deps.json
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\bin\Debug\netcoreapp3.1\FindMaxSumInFile.runtimeconfig.json
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\bin\Debug\netcoreapp3.1\FindMaxSumInFile.runtimeconfig.dev.json
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\bin\Debug\netcoreapp3.1\FindMaxSumInFile.dll
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\bin\Debug\netcoreapp3.1\FindMaxSumInFile.pdb
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.dll
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.pdb
+C:\FoxMinded\task3-findmaxsuminfile\FindMaxSumInFile\obj\Debug\netcoreapp3.1\FindMaxSumInFile.genruntimeconfig.cache
